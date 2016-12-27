@@ -63,6 +63,7 @@ Hashtags appear one per each line in the input file and starts with # sign. Afte
 \#class 5
 
 5 
+
 stop 
 
 Output format
