@@ -76,4 +76,5 @@ Once a query is appeared you need to write down the most popular hashtags of app
 Following is the output file for the above input file. 
 
 saturday,sunday,monday 
+
 saturday,sunday,reading,friday,monday
