@@ -7,6 +7,7 @@ Running the program
 ====================
 
 Program takes the input file name as an argument. Following is an example of how to run the program that read from a file named file_name. 
+
 $ make
 $ ./hashtagcounter file_name
 
@@ -44,6 +45,7 @@ Hashtags appear one per each line in the input file and starts with # sign. Afte
 \#monday 6 
 
 3 
+
 \#saturday 12 
 
 \#monday 2 
